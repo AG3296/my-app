@@ -1,0 +1,1 @@
+scp -r dist/* AG3296@student.labranet.jamk.fi:~/public_html/frontend-app/
