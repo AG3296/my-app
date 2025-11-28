@@ -13,7 +13,7 @@ function App() {
         
       }}
     >
-      Hello GitLab - This works!
+      Hello GitLab - This work!
     </div>
   );
 }
